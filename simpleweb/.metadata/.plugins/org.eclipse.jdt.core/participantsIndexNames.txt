@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\demad\Desktop\simpleweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\268411914.index
+\simpleweb\src\main\resources
+C:\Users\demad\Desktop\simpleweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\312217192.index
+\simpleweb\src\main\resources
+D:\Dima Yniversitet\magistr 1\TPPS\simpleweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\312217192.index
+\simpleweb\src\main\resources
+D:\Dima Yniversitet\magistr 1\TPPS\simpleweb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\268411914.index
+\simpleweb\src\main\resources
